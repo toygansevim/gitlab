@@ -1,4 +1,4 @@
-# gitla
+# gitlab
 ##TEAM
 * Ziggy
 * Alex
