@@ -1,4 +1,4 @@
 # gitla
 ##TEAM
-*Alex
-
+* Alex
+* Bob
