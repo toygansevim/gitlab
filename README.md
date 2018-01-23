@@ -1,5 +1,6 @@
 # gitla
 ##TEAM
+* Ziggy
 * Alex
 * Bob
 * Madison
